@@ -1,8 +1,7 @@
-<img width="1448" height="1086" alt="ChatGPT Image Aug 21, 2026, 09_08_27 AM" src="https://github.com/user-attachments/assets/6a7c0951-ebc8-83ee-b781-40552e0a6830" />
 🚀 Welcome to the Home of Java Developer Resources.
 Java | SpringBoot | Micro Services| Automation | PostGres SQL | CI/CD
- <img width="1563" height="391" alt="image" src="" />
 
+ <img width="1549" height="1015" alt="ChatGPT Image Aug 21, 2026, 09_27_18 AM" src="https://github.com/user-attachments/assets/f1864be3-be83-42bb-99af-183cc345b31c" />
 
 👋 Hi, I’m **Lokesh**  
 🌱 Java Developer | Spring Boot | Microservices | React  
