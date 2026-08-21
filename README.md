@@ -1,7 +1,7 @@
 
 🚀 Welcome to the Home of Java Developer Resources.
 Java | SpringBoot | Micro Services| Automation | PostGres SQL | CI/CD
- <img width="1563" height="391" alt="image" src="https://github.com/user-attachments/assets/471e258d-e285-4958-ab48-2284e5a6ea24" />
+ <img width="1563" height="391" alt="image" src="https://chatgpt.com/s/m_6a87c9542b448191a6ddf89d51c80da0" />
 
 
 👋 Hi, I’m **Lokesh**  
